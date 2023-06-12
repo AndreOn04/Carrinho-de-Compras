@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![image](https://github.com/AndreOn04/Carrinho-de-Compras/assets/128987696/3b36018e-593c-4bb3-b68b-4d350b04e643)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

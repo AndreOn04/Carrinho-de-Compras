@@ -1,4 +1,6 @@
-# Getting Started with Create React App
-https://your-shopping-app01.netlify.app/
+- Projeto de estudo em ReactJS
+- Desenvolvimento responsivo inspirado no estilo do Mercado Livre
+- Integração com API para consumo de dados
+- Renderização dinâmica de produtos na interface
 
-![image](https://github.com/AndreOn04/Carrinho-de-Compras/assets/128987696/3b36018e-593c-4bb3-b68b-4d350b04e643)
+https://your-shopping-app01.netlify.app/
